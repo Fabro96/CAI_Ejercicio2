@@ -19,8 +19,6 @@ namespace Ejercicio_2___CAI
             listaFutbolistas.Add(f1);
 
             
-
-            
         }
     }
 }
